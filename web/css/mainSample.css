@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+header,nav,section {
+	border:1px solid #999999;
+	padding:5px 5px 5px 5px;
+	background-image:url("../img/section.jpg");
+}
+
+#site {
+	margin:5px auto;
+	width:800px; height:600px;
+}
+
+header {
+	margin:5px;
+	height:80px; width:778px;
+}
+
+nav {
+	margin:5px;
+	float:left;
+	height:380px; width:110px;
+}
+
+section {
+	margin:5px;
+	float:right;
+	height:380px; width:614px;
+}

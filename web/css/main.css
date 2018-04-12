@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+body {
+	background-image:url("../img/body.jpg");
+}
+
+header,nav,section,footer {
+	border:1px solid #999999;
+	border-radius:8px;
+	padding:10px 10px 10px 10px;
+	background-image:url("../img/section.jpg");
+}
+
+#site {
+	margin:10px auto;
+	width:800px; height:800px;
+}
+
+header {
+	margin:0px 0px 10px 0px;
+	height:20%;
+}
+
+nav {
+	margin:10px 0px 10px 0px;
+	float:left;
+	height:76%; width:28%;
+}
+
+section {
+	margin:10px 0px 10px 0px;
+	float:right;
+	height:76%; width:65%;
+}
+
+hirocom2{
+    float:left;
+    margin:10px 0px 10px 0px;
+}
